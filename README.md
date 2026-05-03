@@ -28,13 +28,17 @@ Features
 🚀 How to Run the Project
 Step 1: Install Required Libraries
 pip install pandas numpy matplotlib scikit-learn streamlit pyngrok
+
 Step 2: Run Streamlit App
 streamlit run app.py
+
 Step 3: Use ngrok (for public access)
 ngrok http 8501
+
 Step 4: Copy the generated public URL and open in browser.
 
 Future Improvements
+
 Use real-time agricultural datasets
 Deploy on cloud platforms
 Add more advanced ML models
